@@ -1,16 +1,7 @@
-<div class="product-grid">
+## Products
 
-  <div class="product-card">
-    <div class="product-image">
-      <!-- <img src="https://via.placeholder.com/250x180?text=Product+1" alt="Product 1"> -->
-    </div>
-    <div class="product-info">
-      <h3>$PROD_NAME</h3>
-      <p>$DESCRIPTION</p>
-      <p class="price">$PRICE</p>
-    </div>
-  </div>
+| ![Product 1](https://via.placeholder.com/100) | **Product Name 1**  <br> ✨ *A short catchy description goes here.* <br> 💵 **Price:** $25.99 <br> 📦 **In Stock** |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-  <!-- Add more product cards by copying the structure above -->
-
-</div>
+| ![Product 2](https://via.placeholder.com/100) | **Product Name 2**  <br> 🔥 *Another cool product description.* <br> 💵 **Price:** $39.99 <br> 🚚 **Free Shipping** |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
